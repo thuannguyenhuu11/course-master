@@ -2,7 +2,7 @@
 
 This website is an academy website where you can login with email, gmail or github and create courses, sell courses and buy course from the others.
 
-Test it here: [Course Master](coursemaster-thuannguyen11s-projects.vercel.app)
+Test it here: [Course Master](https://coursemaster-thuannguyen11s-projects.vercel.app/)
 
 ![Course Master](https://github.com/user-attachments/assets/6e755213-40c2-4956-a7fc-fd563f0ca141)
 
@@ -10,7 +10,7 @@ Test it here: [Course Master](coursemaster-thuannguyen11s-projects.vercel.app)
 
 You can visit the production deployment on Vercel with the following link:
 
-[Course Master](coursemaster-thuannguyen11s-projects.vercel.app)
+[Course Master](https://coursemaster-thuannguyen11s-projects.vercel.app/)
 
 The technologies used in this project are the following:
 - Next.js 14
