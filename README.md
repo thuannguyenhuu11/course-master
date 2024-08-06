@@ -13,7 +13,7 @@ You can visit the production deployment on Vercel with the following link:
 [Course Master](coursemaster-thuannguyen11s-projects.vercel.app)
 
 The technologies used in this project are the following:
-- Next.js
+- Next.js 14
 - Typescript
 - Tailwind CSS
 - Shadcn/ui
