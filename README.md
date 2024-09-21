@@ -4,7 +4,7 @@ This website is an academy website where you can login with email, gmail or gith
 
 Test it here: [Course Master](https://coursemaster-thuannguyen11s-projects.vercel.app/)
 
-![Course Master](https://github.com/user-attachments/assets/00022570-cfe4-40e4-8a4a-c9338ef4aae1)
+![Course Master](https://github.com/user-attachments/assets/12740b9a-4209-4324-824b-8c920456fab0)
 
 ## Deployment
 
